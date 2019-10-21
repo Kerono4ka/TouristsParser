@@ -51,6 +51,6 @@ Twisted==18.4.0
 tzlocal==1.5.1
 urllib3==1.22
 w3lib==1.19.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 yarg==0.1.9
 zope.interface==4.5.0
