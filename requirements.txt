@@ -20,7 +20,7 @@ itsdangerous==0.24
 Jinja2==2.10
 lxml==4.2.1
 MarkupSafe==1.0
-numpy==1.14.3
+numpy==1.22.0
 parsel==1.4.0
 pipreqs==0.4.9
 pyasn1==0.4.3
